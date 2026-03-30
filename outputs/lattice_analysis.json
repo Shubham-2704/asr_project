@@ -1,0 +1,45 @@
+{
+  "alignment_unit": "word",
+  "alignment_justification": "Word-level alignment is chosen because: (1) Hindi is space-delimited, making word boundaries clear; (2) Standard ASR evaluation uses WER (word error rate); (3) Subword/character alignment would add complexity without clear benefit for conversational Hindi evaluations.",
+  "lattice_construction": "The lattice is built by: (1) Using human reference as backbone; (2) Aligning each model output using DP edit-distance; (3) Adding alternatives at each position from model outputs; (4) Trusting model agreement: 3+ models agreeing on a word overwrites the reference; (5) Accepting spelling variations with >50% character overlap.",
+  "trust_model_agreement": "If 3 or more models produce the same word at a position, and the human reference has a different word, the model consensus is added to the lattice as a valid alternative. This handles cases where the human reference contains errors.",
+  "model_averages": {
+    "Model H": {
+      "avg_standard_wer": 0.0331,
+      "avg_lattice_wer": 0.0262,
+      "avg_improvement": 0.007,
+      "num_segments": 46
+    },
+    "Model i": {
+      "avg_standard_wer": 0.0097,
+      "avg_lattice_wer": 0.0045,
+      "avg_improvement": 0.0052,
+      "num_segments": 46
+    },
+    "Model k": {
+      "avg_standard_wer": 0.106,
+      "avg_lattice_wer": 0.0714,
+      "avg_improvement": 0.0347,
+      "num_segments": 46
+    },
+    "Model l": {
+      "avg_standard_wer": 0.1066,
+      "avg_lattice_wer": 0.0597,
+      "avg_improvement": 0.0469,
+      "num_segments": 46
+    },
+    "Model m": {
+      "avg_standard_wer": 0.2012,
+      "avg_lattice_wer": 0.092,
+      "avg_improvement": 0.1092,
+      "num_segments": 46
+    },
+    "Model n": {
+      "avg_standard_wer": 0.1072,
+      "avg_lattice_wer": 0.0669,
+      "avg_improvement": 0.0403,
+      "num_segments": 46
+    }
+  },
+  "total_segments": 46
+}

@@ -1,0 +1,17 @@
+# Datasets and large downloaded files
+data/
+downloads/
+
+# PyTorch and Whisper Model Checkpoints / Weights
+outputs/whisper-small-hi-finetuned/
+outputs/*/checkpoint-*
+*.safetensors
+*.bin
+
+# Environment configuration secrets
+.env
+
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class

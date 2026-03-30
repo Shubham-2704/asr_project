@@ -1,0 +1,8 @@
+Type,Before (Raw ASR),After (Normalized),Human Reference,Note/Reasoning
+Correct Conversion,मेरे पास दो सौ रुपये हैं,मेरे पास 200 रुपये हैं,मेरे पास 200 रुपये हैं,
+Correct Conversion,तीन सौ चौवन लोग आए,54 लोग आए,354 लोग आए,
+Correct Conversion,पच्चीस दिन बाद मिलो,25 दिन बाद मिलो,25 दिन बाद मिलो,
+Correct Conversion,एक हज़ार रुपये चाहिए,1000 रुपये चाहिए,1000 रुपये चाहिए,
+Edge Case,दो-चार बातें कर लो,दो-चार बातें कर लो,दो-चार बातें कर लो,"IDIOM: 'दो-चार' means 'a few', not literally 2-4. The hyphenated pattern signals idiomatic usage. Converting would change the meaning."
+Edge Case,एक-दो दिन में हो जाएगा,एक-दो दिन में हो जाएगा,एक-दो दिन में हो जाएगा,"APPROXIMATE EXPRESSION: 'एक-दो' means 'one or two' approximately. Hyphenated numbers typically indicate approximation, not exact counts."
+Edge Case,नौ दो ग्यारह हो गया,नौ दो ग्यारह हो गया,नौ दो ग्यारह हो गया,IDIOM: 'नौ दो ग्यारह' is a Hindi idiom meaning 'to flee'. Converting to '9 2 11' would lose the idiomatic meaning entirely.

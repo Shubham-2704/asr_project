@@ -1,0 +1,526 @@
+{
+  "total_unique_words": 177508,
+  "correctly_spelled": 176431,
+  "incorrectly_spelled": 1077,
+  "confidence_distribution": {
+    "high": 10085,
+    "medium": 20941,
+    "low": 146482
+  },
+  "low_confidence_review": [
+    {
+      "word": "मतलब",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 4,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "मैदा",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 4,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "नजारे",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 5,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "सब्द",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 4,
+      "has_halant": true,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "नज़र",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 3,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "प्यून",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 5,
+      "has_halant": true,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "घड़ी",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 3,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "इंतेजाम",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 7,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": true,
+      "is_devanagari": true
+    },
+    {
+      "word": "ड्राईवर",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 7,
+      "has_halant": true,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "छापे",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 4,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "मिनस",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 4,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "टेकरी",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 5,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": ",दूसरा",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 6,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "खिलाफ़",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 5,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": ",नाम",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 4,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "खुई",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 3,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "ए-सी",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 4,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "जलाऊंगा",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 7,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": true,
+      "is_devanagari": true
+    },
+    {
+      "word": "अस्टोरी",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 7,
+      "has_halant": true,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "लारे",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 4,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "जगेगी",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 5,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "बोरा,",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 5,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "आमनहीं",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 6,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": true,
+      "is_devanagari": true
+    },
+    {
+      "word": ",हा।",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 4,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "साइफस",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 5,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "थाउजेंड।",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 8,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": true,
+      "is_devanagari": true
+    },
+    {
+      "word": "सिरपे",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 5,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "रिलीटिव",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 7,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "कारीबी",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 6,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "मोस्कान",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 7,
+      "has_halant": true,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "नूकीले",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 6,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "सेलिब्रेशन्स",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 12,
+      "has_halant": true,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "हैन्डफिर",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 8,
+      "has_halant": true,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "बेगरा",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 5,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "बित्तु",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 6,
+      "has_halant": true,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "सरप्लस",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 6,
+      "has_halant": true,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "लिखार",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 5,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "करगूगा",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 6,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "विचार्स",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 7,
+      "has_halant": true,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "वोमन",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 4,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "फोरआवर्स",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 8,
+      "has_halant": true,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "तेजे",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 4,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "करिकूलम",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 7,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "मिले-",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 5,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "निन्धा",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 6,
+      "has_halant": true,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "इनवेस्",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 6,
+      "has_halant": true,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "इजीनियर",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 7,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "फ्लपी",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 5,
+      "has_halant": true,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "झालर-वालर",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 9,
+      "has_halant": false,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    },
+    {
+      "word": "सादनम्",
+      "original_classification": "correct",
+      "original_reason": "Passes structural checks; not in reference dictionary (low confidence)",
+      "char_count": 6,
+      "has_halant": true,
+      "has_nukta": false,
+      "has_anusvara": false,
+      "is_devanagari": true
+    }
+  ],
+  "unreliable_categories": [
+    {
+      "category": "Words with nukta (़)",
+      "total": 8080,
+      "low_confidence": 6681,
+      "explanation": "Words containing nukta (़) represent borrowed sounds (ज़, फ़, etc.). These are common in Hindi-Urdu vocabulary but our system cannot reliably determine if the nukta placement is correct without an extensive Urdu-Hindi dictionary. Examples: ज़रूर, फ़िल्म, क़रीब."
+    },
+    {
+      "category": "Proper nouns and named entities",
+      "total": 78902,
+      "low_confidence": 78902,
+      "explanation": "Proper nouns (names of people, places, brands) often have spelling patterns that don't match standard Hindi vocabulary. Without a named entity dictionary, our system cannot distinguish between a misspelled common word and a correctly spelled proper noun."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "total_pairs": 5,
+  "modified_count": 4,
+  "examples": {
+    "correct_examples": [
+      {
+        "before": "मेरे पास दो सौ रुपये हैं",
+        "after": "मेरे पास 200 रुपये हैं",
+        "reference": "मेरे पास 200 रुपये हैं"
+      },
+      {
+        "before": "तीन सौ चौवन लोग आए",
+        "after": "54 लोग आए",
+        "reference": "354 लोग आए"
+      },
+      {
+        "before": "पच्चीस दिन बाद मिलो",
+        "after": "25 दिन बाद मिलो",
+        "reference": "25 दिन बाद मिलो"
+      },
+      {
+        "before": "एक हज़ार रुपये चाहिए",
+        "after": "1000 रुपये चाहिए",
+        "reference": "1000 रुपये चाहिए"
+      }
+    ],
+    "edge_cases": [
+      {
+        "before": "दो-चार बातें कर लो",
+        "after": "दो-चार बातें कर लो",
+        "reference": "दो-चार बातें कर लो",
+        "reasoning": "IDIOM: 'दो-चार' means 'a few', not literally 2-4. The hyphenated pattern signals idiomatic usage. Converting would change the meaning."
+      },
+      {
+        "before": "एक-दो दिन में हो जाएगा",
+        "after": "एक-दो दिन में हो जाएगा",
+        "reference": "एक-दो दिन में हो जाएगा",
+        "reasoning": "APPROXIMATE EXPRESSION: 'एक-दो' means 'one or two' approximately. Hyphenated numbers typically indicate approximation, not exact counts."
+      },
+      {
+        "before": "नौ दो ग्यारह हो गया",
+        "after": "नौ दो ग्यारह हो गया",
+        "reference": "नौ दो ग्यारह हो गया",
+        "reasoning": "IDIOM: 'नौ दो ग्यारह' is a Hindi idiom meaning 'to flee'. Converting to '9 2 11' would lose the idiomatic meaning entirely."
+      }
+    ]
+  },
+  "all_pairs": [
+    {
+      "raw_asr": "मेरे पास दो सौ रुपये हैं",
+      "human_reference": "मेरे पास 200 रुपये हैं",
+      "normalized_asr": "मेरे पास 200 रुपये हैं"
+    },
+    {
+      "raw_asr": "तीन सौ चौवन लोग आए",
+      "human_reference": "354 लोग आए",
+      "normalized_asr": "54 लोग आए"
+    },
+    {
+      "raw_asr": "पच्चीस दिन बाद मिलो",
+      "human_reference": "25 दिन बाद मिलो",
+      "normalized_asr": "25 दिन बाद मिलो"
+    },
+    {
+      "raw_asr": "एक हज़ार रुपये चाहिए",
+      "human_reference": "1000 रुपये चाहिए",
+      "normalized_asr": "1000 रुपये चाहिए"
+    },
+    {
+      "raw_asr": "दो-चार बातें कर लो",
+      "human_reference": "दो-चार बातें कर लो",
+      "normalized_asr": "दो-चार बातें कर लो"
+    }
+  ]
+}

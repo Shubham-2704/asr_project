@@ -1,0 +1,147 @@
+{
+  "total_transcripts": 10,
+  "transcripts_with_english": 10,
+  "total_english_words_found": 20,
+  "results": [
+    {
+      "original": "मेरा इंटरव्यू बहुत अच्छा गया और मुझे जॉब मिल गई",
+      "tagged": "मेरा [EN]इंटरव्यू[/EN] बहुत अच्छा गया और मुझे [EN]जॉब[/EN] मिल गई",
+      "english_words": [
+        "इंटरव्यू",
+        "जॉब"
+      ],
+      "detection_methods": [
+        "dictionary",
+        "dictionary"
+      ],
+      "english_word_count": 2,
+      "total_word_count": 10
+    },
+    {
+      "original": "ये प्रॉब्लम सॉल्व नहीं हो रहा",
+      "tagged": "ये [EN]प्रॉब्लम[/EN] [EN]सॉल्व[/EN] नहीं हो रहा",
+      "english_words": [
+        "प्रॉब्लम",
+        "सॉल्व"
+      ],
+      "detection_methods": [
+        "dictionary",
+        "dictionary"
+      ],
+      "english_word_count": 2,
+      "total_word_count": 6
+    },
+    {
+      "original": "मुझे म्यूजिक सुनना पसंद है गाना भी पसंद है एक्चुअली और डांसिंग तो पैशन है मेरा",
+      "tagged": "मुझे [EN]म्यूजिक[/EN] सुनना पसंद है गाना भी पसंद है [EN]एक्चुअली[/EN] और [EN]डांसिंग[/EN] तो [EN]पैशन[/EN] है मेरा",
+      "english_words": [
+        "म्यूजिक",
+        "एक्चुअली",
+        "डांसिंग",
+        "पैशन"
+      ],
+      "detection_methods": [
+        "dictionary",
+        "dictionary",
+        "dictionary",
+        "dictionary"
+      ],
+      "english_word_count": 4,
+      "total_word_count": 16
+    },
+    {
+      "original": "हाँ नहीं तो पहले डेस्कटॉप था ना बाद में लैपटॉप आया",
+      "tagged": "हाँ नहीं तो पहले [EN]डेस्कटॉप[/EN] था ना बाद में [EN]लैपटॉप[/EN] आया",
+      "english_words": [
+        "डेस्कटॉप",
+        "लैपटॉप"
+      ],
+      "detection_methods": [
+        "dictionary",
+        "dictionary"
+      ],
+      "english_word_count": 2,
+      "total_word_count": 11
+    },
+    {
+      "original": "अच्छा चलिए अच्छा हुआ आपने ये सारी इंफॉर्मेशन मुझे बता दी",
+      "tagged": "अच्छा चलिए अच्छा हुआ आपने ये सारी [EN]इंफॉर्मेशन[/EN] मुझे बता दी",
+      "english_words": [
+        "इंफॉर्मेशन"
+      ],
+      "detection_methods": [
+        "dictionary"
+      ],
+      "english_word_count": 1,
+      "total_word_count": 11
+    },
+    {
+      "original": "तो भारत तो एक खुद से ही गिफ्टेड लैंड है तो हमें इसको एक्सप्लोर करना चाहिए",
+      "tagged": "तो भारत तो एक खुद से ही [EN]गिफ्टेड[/EN] [EN]लैंड[/EN] है तो हमें इसको [EN]एक्सप्लोर[/EN] करना चाहिए",
+      "english_words": [
+        "गिफ्टेड",
+        "लैंड",
+        "एक्सप्लोर"
+      ],
+      "detection_methods": [
+        "dictionary",
+        "dictionary",
+        "dictionary"
+      ],
+      "english_word_count": 3,
+      "total_word_count": 16
+    },
+    {
+      "original": "जी फीडबैक मिलने पर सुधार करना",
+      "tagged": "जी [EN]फीडबैक[/EN] मिलने पर सुधार करना",
+      "english_words": [
+        "फीडबैक"
+      ],
+      "detection_methods": [
+        "dictionary"
+      ],
+      "english_word_count": 1,
+      "total_word_count": 6
+    },
+    {
+      "original": "बहुत प्योर हार्ट रहता है सबका",
+      "tagged": "बहुत [EN]प्योर[/EN] [EN]हार्ट[/EN] रहता है सबका",
+      "english_words": [
+        "प्योर",
+        "हार्ट"
+      ],
+      "detection_methods": [
+        "dictionary",
+        "dictionary"
+      ],
+      "english_word_count": 2,
+      "total_word_count": 6
+    },
+    {
+      "original": "हम उनके साथ कैसा बिहेव किए उस समय",
+      "tagged": "हम उनके साथ कैसा [EN]बिहेव[/EN] किए उस समय",
+      "english_words": [
+        "बिहेव"
+      ],
+      "detection_methods": [
+        "dictionary"
+      ],
+      "english_word_count": 1,
+      "total_word_count": 8
+    },
+    {
+      "original": "लाइक रविवार को कॉलेज की भी छुट्टी रहती है",
+      "tagged": "[EN]लाइक[/EN] रविवार को [EN]कॉलेज[/EN] की भी छुट्टी रहती है",
+      "english_words": [
+        "लाइक",
+        "कॉलेज"
+      ],
+      "detection_methods": [
+        "dictionary",
+        "dictionary"
+      ],
+      "english_word_count": 2,
+      "total_word_count": 9
+    }
+  ]
+}

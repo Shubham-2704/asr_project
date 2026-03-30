@@ -1,0 +1,3 @@
+Model,Hindi WER,Num Samples
+Whisper Small (Pretrained),0.5528,5
+FT Whisper Small (yours),0.5528,5

@@ -1,0 +1,26 @@
+[
+  {
+    "rank": 1,
+    "category": "Visarga / Anusvara / Chandrabindu Error",
+    "category_key": "visarga_anusvara",
+    "count": 19,
+    "proposed_fix": "Rule-based post-processing to add/remove anusvara (ं) based on Hindi grammar rules (e.g., before प/ब/म consonants, nasal mark is expected).",
+    "actionable": true
+  },
+  {
+    "rank": 2,
+    "category": "Insertion / Deletion",
+    "category_key": "insertion_deletion",
+    "count": 4,
+    "proposed_fix": "Post-processing confidence-based filtering. Remove low-confidence tokens and add commonly missed filler words based on acoustic patterns.",
+    "actionable": true
+  },
+  {
+    "rank": 3,
+    "category": "Punctuation / Filler Word Error",
+    "category_key": "punctuation_filler",
+    "count": 3,
+    "proposed_fix": "Rule-based filler word normalization. Remove common ASR-inserted fillers and standardize punctuation.",
+    "actionable": true
+  }
+]
